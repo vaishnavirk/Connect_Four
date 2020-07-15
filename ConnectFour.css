@@ -1,0 +1,11 @@
+.board button{
+  width: 100px;
+  height: 100px;
+  background-color: grey;
+  /* btwn each cells */
+  margin: 1px;
+  /* to make them circles */
+  border-radius: 50%;
+  /* to give black border */
+  border: 4px solid black;
+}
